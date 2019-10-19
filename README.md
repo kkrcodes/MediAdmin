@@ -32,7 +32,8 @@
  
  Screenshots
  -----------
- <b>MediAdmin Dashboard</b><br/>
+ <b>MediAdmin Dashboard</b> 
+ <br>
  <img src="Content/screenshots/Home.png" title="MediAdmin Home (Dashboard)" alt="MediAdmin Home (Dashboard)"><br>
  <b>Add New Patient</b><br>
  <img src="Content/screenshots/addNewPatient.png" title="Add New Patient" alt="Add New Patient"><br>

@@ -32,13 +32,13 @@
  
  Screenshots
  -----------
- <b>MediAdmin Dashboard</b> 
- <img src="Content/screenshots/Home.png" title="MediAdmin Home (Dashboard)" alt="MediAdmin Home (Dashboard)">
- <b>Add New Patient</b>
- <img src="Content/screenshots/addNewPatient.png" title="Add New Patient" alt="Add New Patient">
- <b>Filter patients that need immediate attention</b>
- <img src="Content/screenshots/filterImmediate.png" title="Filter patients that need immediate attention" alt="Filter Immediate">
- <b>Update patient status</b>
- <img src="Content/screenshots/Update.png" title="Update patient status" alt="Update patient status">
- <b>Chat with other doctors</b>
- <img src="Content/screenshots/Chat.png" title="Chat with other doctors" alt="Chat">
+ <b>MediAdmin Dashboard</b><br>
+ <img src="Content/screenshots/Home.png" title="MediAdmin Home (Dashboard)" alt="MediAdmin Home (Dashboard)"><br>
+ <b>Add New Patient</b><br>
+ <img src="Content/screenshots/addNewPatient.png" title="Add New Patient" alt="Add New Patient"><br>
+ <b>Filter patients that need immediate attention</b><br>
+ <img src="Content/screenshots/filterImmediate.png" title="Filter patients that need immediate attention" alt="Filter Immediate"><br>
+ <b>Update patient status</b><br>
+ <img src="Content/screenshots/Update.png" title="Update patient status" alt="Update patient status"><br>
+ <b>Chat with other doctors</b><br>
+ <img src="Content/screenshots/Chat.png" title="Chat with other doctors" alt="Chat"><br>

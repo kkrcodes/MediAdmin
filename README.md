@@ -29,3 +29,10 @@
  <li>Dashboard to overview all patients</li>
  </ul>
  
+ Screenshots
+ -----------
+ <img src="Content/screenshots/Home.png" title="MediAdmin Home (Dashboard)" alt="MediAdmin Home (Dashboard)">
+ <img src="Content/screenshots/addNewPatient.png" title="Add New Patient" alt="Add New Patient">
+ <img src="Content/screenshots/filterImmediate.png" title="Filter patients that need immediate attention" alt="Filter Immediate">
+ <img src="Content/screenshots/Update.png" title="Update patient status" alt="Update patient status">
+ <img src="Content/screenshots/Chat.png" title="Chat with other doctors" alt="Chat">

@@ -6,5 +6,5 @@
  Pre-requisites
  --------------
  <ul>
- <li>Library-box installed portable router. Follow instructions [here](http://librarybox.us/buildingv2.1.php "Build a Library Box") to purchase a supported router, and install LibraryBox.</li>
+ <li>Library-box installed portable router. Follow instructions [here] http://librarybox.us/buildingv2.1.php "Build a Library Box" to purchase a supported router, and install LibraryBox.</li>
  </ul>

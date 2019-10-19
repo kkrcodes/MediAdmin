@@ -21,11 +21,11 @@
  
  Features
  --------
- 
- ##### Add New Patient
- <ul>
- <li></li>
- <li></li>
- <li></li>
+  <ul>
+ <li>**Add New Patient**</li>
+ <li>**Filter By Triage system**</li>
+ <li>**Update patient triage status**</li>
+ <li>**Chat with other doctors**</li>
+ <li>**Dashboard to overview patient status**</li>
  </ul>
  

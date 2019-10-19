@@ -22,10 +22,10 @@
  Features
  --------
   <ul>
- <li>**Add New Patient**</li>
- <li>**Filter By Triage system**</li>
- <li>**Update patient triage status**</li>
- <li>**Chat with other doctors**</li>
- <li>**Dashboard to overview patient status**</li>
+ <li><b>Add New Patient**</b></li>
+ <li><b>Filter By Triage system</b></li>
+ <li><b>Update patient triage status</b></li>
+ <li><b>Chat with other doctors</b></li>
+ <li><b>Dashboard to overview all patients</b></li>
  </ul>
  

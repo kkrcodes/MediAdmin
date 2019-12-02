@@ -42,3 +42,9 @@
  <img src="Content/screenshots/Update.png" title="Update patient status" alt="Update patient status"><br>
  <b>Chat with other doctors</b><br>
  <img src="Content/screenshots/Chat.png" title="Chat with other doctors" alt="Chat">
+ 
+ 
+## License
+
+The content of this repository is licensed under a
+[GNU General Public License v3.0](LICENSE).
